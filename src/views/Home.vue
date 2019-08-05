@@ -5,7 +5,7 @@
     position: absolute;left: 0;right: 0;top: 0;bottom: 0;margin: auto;z-index: -1;">
     <div>
       <h1 style="color: white">
-        主页
+        主页(父组件)
       </h1>
       <el-input v-model="fatherMsg" style="width: 200px" placeholder="给儿子说点什么..."></el-input>
       <div>父听到子说:{{sonMsg}}</div>

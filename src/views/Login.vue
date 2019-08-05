@@ -4,7 +4,7 @@
            style="z-index: -1;position: absolute;top:0;left: 0;right: 0;bottom: 0;margin: auto;"/>
       <div style="border: 1px solid #9ac2ff;width:300px;height:200px;
       position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;border-radius: 5px">
-        <h1>登录页</h1>
+        <h1 style="color: #9ac2ff">登录页</h1>
         <el-button type="primary" @click="funcHome()">点击进入</el-button>
       </div>
     </div>
